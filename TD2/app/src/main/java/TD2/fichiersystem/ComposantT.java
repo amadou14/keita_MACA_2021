@@ -1,5 +1,5 @@
 package TD2.fichiersystem;
 
 public enum ComposantT {
-    FICHIER , Fichier, REPERTOIRE
+    FICHIER ,  REPERTOIRE
 }
